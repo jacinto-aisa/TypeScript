@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "ES2019",
+    "declaration": true,
+    //"experimentalDecorators": true, //Para poder usar decoradores
+    //"emitDecoratorMetadata": true //Para poder metadatos
+    //"module": "node16",
+    //"moduleResolution": "nodenext"
+
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}
